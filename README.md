@@ -7,10 +7,32 @@ First year ComSci student of kku(kku69)
 i'm currently learning about programming , i also have experience with roblox studio(luau) for 2years when i was high school student so i can understand code language faster.
 
 * 🌍  I'm based in Thailand KhonKaen
-* ✉️  You can contact me at [supatcharanan.thanimluk@gmail.com , peace5888881@gmail.com](mailto:supatcharanan.thanimluk@gmail.com , peace5888881@gmail.com)
+* ✉️  You can contact me at supatcharanan.thanimluk@gmail.com , peace5888881@gmail.com 
+
+### Learning:
+
+### Programming Language
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a>
+  
+  [![My Skills](https://skillicons.dev/icons?i=python,c,lua,&theme=light)](https://skillicons.dev)
+  
+</p>
+
+### Frontend
+
+<p align="left">
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
+  
+</p>
+
+### IDE
+
+<p align="left">
+  
+  [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
+  
 </p>
 
 ### Socials
