@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Supatcharanan Thanimluk
 ================================================================================================================================================
 
-First year ComSci student of kku(kku69)
+First year ComSci student of kku(kku63)
 ---------------------------------------
 
 i'm currently learning about programming , i also have experience with roblox studio(luau) for 2years when i was high school student so i can understand code language faster.
